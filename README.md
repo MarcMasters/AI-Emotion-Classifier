@@ -10,10 +10,6 @@ This project explores how acoustic features extracted from speech signals can be
   <img src="./Fotos/abejas_text.gif" width="700" alt="Project Demo">
 </p>
 
-<p align="center">
-  <em>Emotion prediction demo from voice input</em>
-</p>
-
 ---
 
 ## Project Overview
@@ -81,9 +77,6 @@ Evaluation & Visualization
 ## Technologies Used
 
 - Python
-- :contentReference[oaicite:4]{index=4}
-- :contentReference[oaicite:5]{index=5}
-- :contentReference[oaicite:6]{index=6}
 - NumPy
 - Pandas
 - Matplotlib
@@ -176,5 +169,9 @@ Please review the dataset license before commercial usage. :contentReference[oai
 
 Developed by Marcos, Pablo, Dazhan and Daniel
 
-- GitHub: [https://github.com/MarcMasters](https://github.com/MarcMasters)
 - LinkedIn: [https://www.linkedin.com/in/marcos-olmo](https://www.linkedin.com/in/marcos-olmo-l%C3%B3pez-948592347/?locale=es)
+- GitHub:
+  [https://github.com/MarcMasters]
+  [https://github.com/Toonix89]
+  [https://github.com/SaltHeart2]
+  [https://github.com/Daani10]
