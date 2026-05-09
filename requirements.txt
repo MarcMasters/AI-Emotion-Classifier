@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+librosa
+tqdm
+tensorflow
+transformers
+torch
+torchaudio
+speechbrain @ git+https://github.com/speechbrain/speechbrain.git@v1.0.2
