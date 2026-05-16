@@ -157,14 +157,6 @@ jupyter notebook
 
 ---
 
-## License
-
-This project is intended for educational, research, and portfolio purposes.
-
-Please review the dataset license before commercial usage. :contentReference[oaicite:7]{index=7}
-
----
-
 ## Author
 
 Developed by Marcos, Pablo, Dazhan and Daniel
